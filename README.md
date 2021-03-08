@@ -1,11 +1,11 @@
 # MMU2
 
 
-Original Prusa i3 MK3 Multi Material 2.0
+Original Prusa i3 MK3 Multi Material 2 S PLUS
 
 Multi Material 2.0 upgrade is the second generation of multi-material addon to the Original Prusa i3 MK3 and MK2.5 printer.
 
-This repository contains SCAD files and STLs of the printed parts.
+This repository contains STLs of the printed parts.
 
 **Links**
 
