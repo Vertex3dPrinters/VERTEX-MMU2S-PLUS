@@ -9,8 +9,10 @@ This repository contains SCAD files and STLs of the printed parts.
 
 **Links**
 
+ * VERTEX3D website : http://vertex3d.org
+ * Firmware : https://github.com/Vertex3dPrinters/Vertex-Prusa-Firmware
  * Prusa Research website : http://prusa3d.com
- * Product page : https://shop.prusa3d.com/en/printer-upgrades/183-original-prusa-i3-mk3-multi-material-upgrade-kit.html
+ * Prusa Research website : http://prusa3d.com
  * Build manual : https://manual.prusa3d.com/c/Original_Prusa_i3_MK3_to_Multi_Material_2_upgrade
  * Firmware : https://github.com/prusa3d/Prusa-Firmware
  * MMU2 control board: https://github.com/prusa3d/MM-control-2.0
