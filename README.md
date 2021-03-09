@@ -1,7 +1,7 @@
 # VERTEX MMU2S +
 
 
-Original Prusa i3 MK3 Multi Material 2 S PLUS
+VERTEX Multi Material 2 S PLUS
 
 Multi Material 2 S PLUS upgrade is the second generation of multi-material addon to the Original Prusa i3 MK3 and MK2.5 printer. VERTEX modified most parts to improve the reliability and enjoy a better MMU experience.
 
