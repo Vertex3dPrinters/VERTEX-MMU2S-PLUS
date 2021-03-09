@@ -12,5 +12,5 @@ This repository contains STLs of the printed parts.
  * VERTEX3D website : http://vertex3d.org
  * Prusa Research website : http://prusa3d.com
  * Build manual : https://manual.prusa3d.com/c/Original_Prusa_i3_MK3_to_Multi_Material_2_upgrade
- * MMU2 Firmware : https://github.com/prusa3d/Prusa-Firmware
+ * MMU2 Firmware : https://github.com/prusa3d/MM-control-01
  * MMU2 control board: https://github.com/prusa3d/MM-control-2.0
