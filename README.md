@@ -1,4 +1,4 @@
-# MMU2
+# VERTEX MMU2S +
 
 
 Original Prusa i3 MK3 Multi Material 2 S PLUS
